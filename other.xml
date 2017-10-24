@@ -1,0 +1,73 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="4.5.0" last-modified="1471385082000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Miniconda2\python.exe" value="false" />
+        <entry key="C:\Python27\ArcGIS10.3\python.exe" value="false" />
+        <entry key="C:\Python27\ArcGIS10.4\python.exe" value="false" />
+        <entry key="C:\dev_projects\example\bin\python.exe" value="false" />
+        <entry key="C:\dev_projects\gis-survey\api\bin\python.exe" value="false" />
+        <entry key="C:\dev_projects\ott\api\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Census\census-postgres-py\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Development_Around_Lightrail\dev-near-light-rail\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Orange_Line\Employers\py\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Miniconda2\python.exe" value="false" />
+        <entry key="C:\Python27\ArcGIS10.3\python.exe" value="false" />
+        <entry key="C:\Python27\ArcGIS10.4\python.exe" value="true" />
+        <entry key="C:\dev_projects\example\bin\python.exe" value="false" />
+        <entry key="C:\dev_projects\gis-survey\api\bin\python.exe" value="true" />
+        <entry key="C:\dev_projects\ott\api\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Census\census-postgres-py\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Development_Around_Lightrail\dev-near-light-rail\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Orange_Line\Employers\py\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="C:\Miniconda2\python.exe" value="false" />
+        <entry key="C:\Python27\ArcGIS10.3\python.exe" value="false" />
+        <entry key="C:\Python27\ArcGIS10.4\python.exe" value="false" />
+        <entry key="C:\dev_projects\example\bin\python.exe" value="false" />
+        <entry key="C:\dev_projects\gis-survey\api\bin\python.exe" value="false" />
+        <entry key="C:\dev_projects\ott\api\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Census\census-postgres-py\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Development_Around_Lightrail\dev-near-light-rail\bin\python.exe" value="false" />
+        <entry key="G:\PUBLIC\GIS_Projects\Orange_Line\Employers\py\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
