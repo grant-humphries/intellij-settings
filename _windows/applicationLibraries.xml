@@ -3,17 +3,17 @@
     <library name="Ext JS 5.1.3" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$USER_HOME$/libraries/ext-5.1.3/src" />
-          <item url="file://$USER_HOME$/libraries/ext-5.1.3/plugins" />
           <item url="file://$USER_HOME$/libraries/ext-5.1.3/overrides" />
           <item url="file://$USER_HOME$/libraries/ext-5.1.3/packages" />
+          <item url="file://$USER_HOME$/libraries/ext-5.1.3/plugins" />
+          <item url="file://$USER_HOME$/libraries/ext-5.1.3/src" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/libraries/ext-5.1.3/src" />
-        <root url="file://$USER_HOME$/libraries/ext-5.1.3/plugins" />
         <root url="file://$USER_HOME$/libraries/ext-5.1.3/overrides" />
         <root url="file://$USER_HOME$/libraries/ext-5.1.3/packages" />
+        <root url="file://$USER_HOME$/libraries/ext-5.1.3/plugins" />
+        <root url="file://$USER_HOME$/libraries/ext-5.1.3/src" />
       </CLASSES>
       <DOCUMENTATION>
         <root url="http://docs.sencha.com/extjs/5.1.3" />
