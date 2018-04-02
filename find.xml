@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Yardmap development files" />
-    <option name="defaultScopeName" value="Yardmap development files" />
+    <option name="customScope" value="Development Files" />
+    <option name="defaultScopeName" value="Development Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Yardmap development files" />
+    <option name="SEARCH_SCOPE" value="Development Files" />
   </component>
 </application>
