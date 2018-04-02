@@ -1,4 +1,4 @@
-<code_scheme name="grant-humphries">
+<code_scheme name="grant-humphries" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <DBN-PSQL>
     <case-options enabled="false">
@@ -26,6 +26,7 @@
   </DBN-SQL>
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
