@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Development files" />
-    <option name="defaultScopeName" value="Development files" />
-    <option name="SEARCH_SCOPE" value="Development files" />
+    <option name="customScope" value="Trap development files" />
+    <option name="defaultScopeName" value="Trap development files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Trap development files" />
   </component>
 </application>
