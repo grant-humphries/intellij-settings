@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Users\humphrig\projects\dotfiles\scripts\embed_cygwin_pycharm.bat" />
-    <option name="myTabName" value="babun" />
+    <option name="myShellPath" value="&quot;C:\cygwin64\bin\bash.exe&quot; -il" />
+    <option name="myTabName" value="cygwin" />
   </component>
 </application>
