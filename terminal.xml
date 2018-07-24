@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\cygwin64\bin\bash.exe&quot; -il" />
-    <option name="myTabName" value="cygwin" />
+    <option name="myShellPath" value="C:\cygwin64\tmp\start-bash.bat" />
+    <option name="myTabName" value="cygwin-bash" />
   </component>
 </application>
