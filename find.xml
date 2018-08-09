@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\trimet\trap\views\track_access_date.py [trimet.trap]'" />
-    <option name="defaultScopeName" value="File '...\trimet\trap\views\track_access_date.py [trimet.trap]'" />
+    <option name="customScope" value="Development files" />
+    <option name="defaultScopeName" value="Development files" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\trimet\trap\views\track_access_date.py [trimet.trap]'" />
+    <option name="SEARCH_SCOPE" value="Development files" />
   </component>
 </application>
