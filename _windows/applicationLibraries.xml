@@ -1,5 +1,24 @@
 <application>
   <component name="libraryTable">
+    <library name="Ext JS 4.1.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="ExtJS 4.1" />
+        <option name="frameworkVersion" value="4.1.0" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/libraries/ext-4.1.0/locale" />
+          <item url="file://$USER_HOME$/libraries/ext-4.1.0/pkgs" />
+          <item url="file://$USER_HOME$/libraries/ext-4.1.0/resources" />
+          <item url="file://$USER_HOME$/libraries/ext-4.1.0/src" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/libraries/ext-4.1.0/locale" />
+        <root url="file://$USER_HOME$/libraries/ext-4.1.0/pkgs" />
+        <root url="file://$USER_HOME$/libraries/ext-4.1.0/resources" />
+        <root url="file://$USER_HOME$/libraries/ext-4.1.0/src" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="Ext JS 5.1.3" type="javaScript">
       <properties>
         <sourceFilesUrls>
