@@ -3,9 +3,11 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="base.cfg" type="BuildoutCfg" />
+      <mapping pattern="ci.cfg" type="BuildoutCfg" />
+      <mapping pattern="deploy.cfg" type="BuildoutCfg" />
       <mapping ext="js_tmpl" type="JavaScript" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
       <mapping ext="fnc" type="DBN-PSQL" />
