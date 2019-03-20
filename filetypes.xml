@@ -10,6 +10,8 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
