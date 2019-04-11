@@ -5,6 +5,7 @@
       <mapping pattern="deploy.cfg" type="BuildoutCfg" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <removed_mapping pattern="*_gen_project.py" approved="true" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
