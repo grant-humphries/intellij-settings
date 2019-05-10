@@ -4,6 +4,7 @@
       <mapping pattern="*buildout.cfg.mako" type="BuildoutCfg" />
       <mapping pattern="base.cfg" type="BuildoutCfg" />
       <mapping pattern="*.ini.mako" type="Ini" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <removed_mapping pattern="*_gen_project.py" approved="true" type="Jinja2" />
