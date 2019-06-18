@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myShellIntegration" value="false" />
     <option name="myShellPath" value="C:\Users\humphrig\projects\dotfiles\scripts\start_bash.bat" />
     <option name="myTabName" value="cygwin" />
   </component>
