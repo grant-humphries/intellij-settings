@@ -9,8 +9,6 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="pkg" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <removed_mapping pattern="*buildout.cfg.mako" approved="true" type="BuildoutCfg" />
       <removed_mapping pattern="*.cfg.mako" approved="true" type="BuildoutCfg" />
       <removed_mapping pattern="*_gen_project.py" approved="true" type="Jinja2" />
