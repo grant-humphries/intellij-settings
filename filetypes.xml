@@ -5,6 +5,7 @@
       <mapping pattern="deploy.cfg.mako" type="BuildoutCfg" />
       <mapping pattern="*.ini.mako" type="Ini" />
       <mapping pattern="app.json" type="JSON5" />
+      <mapping pattern=".zipinclude" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="pkg" type="PLAIN_TEXT" />
