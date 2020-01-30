@@ -8,8 +8,8 @@
       <mapping pattern="app.json" type="JSON5" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="pkg" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*.cfg.mako" approved="true" type="BuildoutCfg" />
       <removed_mapping pattern="deploy.cfg" approved="true" type="BuildoutCfg" />
