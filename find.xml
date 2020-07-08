@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Yard Map Develpment Files" />
-    <option name="defaultScopeName" value="Yard Map Develpment Files" />
+    <option name="customScope" value="yardmap with dependencies" />
+    <option name="defaultScopeName" value="yardmap with dependencies" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Yard Map Develpment Files" />
+    <option name="SEARCH_SCOPE" value="yardmap with dependencies" />
   </component>
 </application>
