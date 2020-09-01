@@ -3,5 +3,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="terminal.escape.moves.focus.to.editor" value="false" />
+    <entry key="ide.settings.move.mouse.on.default.button" value="true" />
   </component>
 </application>
