@@ -1,31 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e94a8171-e2d6-4e68-bef1-4ce7eb9a0c8b" name="humphrig@192.168.56.101:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="192.168.56.101" port="22" sshConfigId="4a8593ab-a6c8-4101-98a5-e7e40f1d8f9e" sshConfig="humphrig@192.168.56.101:22 key" keyPair="true" />
-      </webServer>
-      <webServer id="ef79ff3a-789f-47a5-bdd4-ade8323b0a11" name="humphrig@trimet-centos-vm:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
-      </webServer>
       <webServer id="920418f3-8afb-489c-a967-727176756f3d" name="humphrig@trimet-centos-vm:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
-      </webServer>
-      <webServer id="b4011098-8eae-44ea-97bc-ccc8f6460db5" name="humphrig@trimet-centos-vm:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
-      </webServer>
-      <webServer id="d0a01042-4f77-4bd5-a21d-a9c2b2ab23f3" name="humphrig@trimet-centos-vm:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
-      </webServer>
-      <webServer id="ed2e45ea-cc09-460a-857c-a8517bd2e840" name="humphrig@trimet-centos-vm:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
-      </webServer>
-      <webServer id="b28a45e5-b4b3-4439-bdf0-42df39bb6ad2" name="humphrig@trimet-centos-vm:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
-      </webServer>
-      <webServer id="2d7c3179-0e87-4a55-b4ee-35b039c258e6" name="humphrig@trimet-centos-vm:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
-      </webServer>
-      <webServer id="48a2efaa-ad86-40d0-b0ca-c161d6989632" name="humphrig@trimet-centos-vm:22" url="http:///">
         <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
       </webServer>
     </option>
