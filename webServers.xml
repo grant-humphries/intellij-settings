@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="920418f3-8afb-489c-a967-727176756f3d" name="humphrig@trimet-centos-vm:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="trimet-centos-vm" port="22" sshConfigId="b42cb33f-8308-4d6c-beb3-d080f1956b6c" sshConfig="humphrig@trimet-centos-vm:22 key" keyPair="true" />
+      </webServer>
+    </option>
+  </component>
+</application>
