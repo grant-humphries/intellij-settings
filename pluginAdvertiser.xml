@@ -2045,6 +2045,11 @@
                       <FeaturePluginData displayName="nginx server" pluginName="nginx Support" pluginId="ideanginx9" />
                     </value>
                   </entry>
+                  <entry key="sencha.configuration">
+                    <value>
+                      <FeaturePluginData displayName="Sencha App Watch" pluginName="Sencha Ext JS" pluginId="com.sencha.idea.IdeaPlugin" />
+                    </value>
+                  </entry>
                   <entry key="tests">
                     <value>
                       <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
