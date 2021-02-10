@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Development files" />
     <option name="defaultScopeName" value="Development files" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Development files" />
     <mask>styled.js</mask>
   </component>
