@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="192.168.56.101" id="4a8593ab-a6c8-4101-98a5-e7e40f1d8f9e" keyPath="C:\Users\humphrig\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="humphrig" />
-      <sshConfig host="trimet-centos-vm" id="b42cb33f-8308-4d6c-beb3-d080f1956b6c" keyPath="C:\Users\humphrig\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="humphrig" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="trimet-centos-vm" id="b42cb33f-8308-4d6c-beb3-d080f1956b6c" keyPath="C:\Users\humphrig\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="humphrig" />
     </configs>
   </component>
 </application>
