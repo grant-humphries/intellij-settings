@@ -1,11 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".mr.developer*" type="BuildoutCfg" />
-      <mapping pattern="*buildout.cfg.mako" type="BuildoutCfg" />
-      <mapping pattern="base.cfg" type="BuildoutCfg" />
-      <mapping pattern="development.cfg" type="BuildoutCfg" />
-      <mapping pattern="local.cfg" type="BuildoutCfg" />
       <mapping pattern="*.ini.mako" type="Ini" />
       <mapping pattern="app.json" type="JSON5" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -23,6 +18,11 @@
       <removed_mapping pattern="*_gen_project.py" approved="true" type="Jinja2" />
       <removed_mapping pattern="deploy.cfg" approved="true" type="BuildoutCfg" />
       <removed_mapping pattern="deploy.cfg.mako" approved="true" type="BuildoutCfg" />
+      <mapping pattern="*buildout.cfg.mako" type="BuildoutCfg" />
+      <mapping pattern=".mr.developer*" type="BuildoutCfg" />
+      <mapping pattern="base.cfg" type="BuildoutCfg" />
+      <mapping pattern="development.cfg" type="BuildoutCfg" />
+      <mapping pattern="local.cfg" type="BuildoutCfg" />
     </extensionMap>
   </component>
 </application>
