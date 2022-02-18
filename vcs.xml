@@ -25,4 +25,7 @@
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/cygwin64/tmp" />
   </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
+  </component>
 </application>
