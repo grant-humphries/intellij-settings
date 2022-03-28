@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="*.ini.mako" type="Ini" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="app.json" type="JSON5" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
