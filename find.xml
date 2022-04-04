@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="development-files" />
-    <option name="defaultScopeName" value="development-files" />
-    <option name="SEARCH_SCOPE" value="development-files" />
+    <option name="customScope" value="Development files" />
+    <option name="defaultScopeName" value="Development files" />
+    <option name="SEARCH_SCOPE" value="Development files" />
     <mask>styled.js</mask>
     <mask>test.js</mask>
     <mask>*.css</mask>
