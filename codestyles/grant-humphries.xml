@@ -38,6 +38,9 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <OracleCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+  </OracleCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -60,8 +63,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
-    <option name="RIGHT_MARGIN" value="80" />
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="RIGHT_MARGIN" value="81" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <option name="SOFT_MARGINS" value="80" />
   </codeStyleSettings>
   <codeStyleSettings language="Oracle">
@@ -78,6 +81,13 @@
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
