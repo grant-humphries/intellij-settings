@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="development-files" />
+    <option name="FILE_MASK" value="story.js" />
     <mask>test.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
