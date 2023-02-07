@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="development-files" />
+    <option name="FILE_MASK" value=".story.js" />
     <mask>test.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -20,5 +21,6 @@
     <mask>styled.js</mask>
     <mask>story.js</mask>
     <mask>.yml</mask>
+    <mask>.story.js</mask>
   </component>
 </application>
